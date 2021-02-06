@@ -1,4 +1,4 @@
 variable "domain" {
   type        = string
-  description = ""
+  description = "Primary domain name for the organization"
 }
